@@ -1,7 +1,28 @@
-# Add your pinned requirements so that they can be easily installed with:
-# pip install -r requirements.txt
-# Remember to also add them in setup.cfg but unpinned.
-# Example:
-# numpy==1.13.3
-# scipy==1.0
-
+app==0.0.1
+arrow==0.12.1
+binaryornot==0.4.4
+certifi==2017.11.5
+chardet==3.0.4
+click==6.7
+cookiecutter==1.6.0
+ez-setup==0.9
+Flask==0.12.2
+future==0.16.0
+idna==2.6
+itsdangerous==0.24
+Jinja2==2.10
+jinja2-time==0.2.0
+MarkupSafe==1.0
+numpy==1.14.0
+poyo==0.4.1
+PyScaffold==3.0.1
+python-dateutil==2.6.1
+requests==2.18.4
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
+systeminfo==0.1
+urllib3==1.22
+virtualenv==15.1.0
+Werkzeug==0.14.1
+whichcraft==0.4.1
