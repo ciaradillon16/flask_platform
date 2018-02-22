@@ -1,5 +1,5 @@
 
-from systeminfo import main as sysinfo
+from SystemInfo import main as sysinfo
 from app import app
 
 @app.route('/')
