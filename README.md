@@ -15,7 +15,7 @@ To use this application:
 
 2) Install the systeminfo (which can be accessed at https://github.com/ciaradillon16/systeminfo.git) project by opening the terminal or command line, and running ‘pip install git+https://github.com/ciaradillon16/systeminfo.git
 
-3) Once this has been installed, navigate to the flask application downloaded in step 1, and ensure that you are in the ‘src’ folder. From here, run the command ‘python run.py’
+3) Once this has been installed, navigate to the where you stored the flask application downloaded in step 1, and ensure that you are in the ‘src’ folder. From here, run the command ‘python run.py’
 
 4) The systeminfo of your machine should display at http://0.0.0.0:5000/ 
 
